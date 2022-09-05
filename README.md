@@ -1,7 +1,8 @@
 # Quantum-Physics-Informed-Neural-Network
 Continuous Variable Quantum Physics Informed Neural Network for the Solution of 1D Poisson Equation.
 
-#Requirements
+# Requirements
+
 python                    3.10.4 
 strawberryfields          0.22.0
 quantum-blackbird         0.4.0 
